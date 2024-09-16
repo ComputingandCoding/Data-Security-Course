@@ -38,12 +38,12 @@ def test_passwords(password_list):
 
 # Step 6: List of passwords to test
 passwords_to_test = [
-    "Short7!",
-    "nouppercase7!",
-    "NOLOWERCASE7!",
-    "NoNumber!",
-    "NoSpecial7",
-    "GoodPass7!"
+    "Short5!",
+    "password123!",
+    "PASSWORD123!",
+    "PASSWORD!",
+    "Password123",
+    "StrongPassword123!"
 ]
 
 # Step 7: Test each password in the list
